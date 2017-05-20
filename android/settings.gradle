@@ -1,0 +1,3 @@
+rootProject.name = 'growler_prowler_v2'
+
+include ':app'
